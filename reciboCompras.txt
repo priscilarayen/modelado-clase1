@@ -1,0 +1,6 @@
+papa $1200
+cebolla $800
+zapallo $2500
+zanahoria $700
+ajo $600
+apio $400
